@@ -31,8 +31,8 @@ Usage
 
    Example:
 
-       var carrierGateways = require("carrier-gateways");
+        var carrierGateways = require("carrier-gateways");
     
-       // Look up an address.
-       carrierGateways.getAddress("801-234-5678", "Verizon");
-       // returns 8012345678@vztext.com
+        // Look up an address.
+        carrierGateways.getAddress("801-234-5678", "Verizon");
+        // returns 8012345678@vztext.com
