@@ -1,0 +1,23 @@
+{
+  "name": "carrier-gateways",
+  "version": "0.0.1",
+  "description": "Email-to-sms gateways for common US carriers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdmitHub/carrier-gateways.git"
+  },
+  "author": "Charlie DeTar",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/AdmitHub/carrier-gateways/issues"
+  },
+  "homepage": "https://github.com/AdmitHub/carrier-gateways",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  }
+}
